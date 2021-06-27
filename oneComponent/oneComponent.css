@@ -1,0 +1,8 @@
+p {
+    font-size: xx-large;
+}
+
+.active{
+    --important-color: thistle;
+    --text-color:red;
+}
